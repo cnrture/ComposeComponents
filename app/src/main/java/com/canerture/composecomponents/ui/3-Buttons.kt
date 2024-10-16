@@ -91,7 +91,7 @@ fun FilledTonal() {
 }
 
 @Composable
-fun Outlined() {
+private fun Outlined() {
     OutlinedButton(
         onClick = { /*TODO*/ },
     ) {
